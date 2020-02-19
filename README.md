@@ -1,1 +1,1 @@
-A solver for Sudoku's based on a tutorial
+A solver for Sudoku's based on a tutorial.
